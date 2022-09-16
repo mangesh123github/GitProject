@@ -4,3 +4,6 @@ ArrayProject/.gitignore
 ArrayProject/.project
 ArrayProject/.settings/
 
+/bin/
+.classpath 
+.project
